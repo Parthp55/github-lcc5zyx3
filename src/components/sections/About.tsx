@@ -93,7 +93,7 @@ const About: React.FC = () => {
             <div className="relative mx-auto max-w-sm">
               <div className="relative z-10 rounded-lg overflow-hidden shadow-xl">
                 <img 
-                  src="https://images.pexels.com/photos/7675766/pexels-photo-7675766.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="" 
                   alt="Professional Astrologer" 
                   className="w-full object-cover aspect-[3/4]"
                 />

@@ -39,7 +39,7 @@ const Services: React.FC = () => {
     <section id="services" className="py-20 bg-cream-light">
       <div className="container mx-auto px-4">
         <SectionTitle 
-          title="My Services" 
+          title="Our Services" 
           subtitle="Discover the cosmic guidance and astrological insights tailored to illuminate your path."
         />
         

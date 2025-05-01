@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
           <div>
             <div className="flex items-center mb-4">
               <MoonStar size={24} className="text-cosmic-accent mr-2" />
-              <h3 className="font-serif text-xl font-semibold">Celestial Guide</h3>
+              <h3 className="font-serif text-xl font-semibold">VaastuRich</h3>
             </div>
             <p className="text-cream-light mb-4">
               Guiding you through life's journey with cosmic wisdom and astrological insights. 
@@ -98,7 +98,7 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-center">
                 <Mail size={20} className="text-cosmic-accent mr-3 flex-shrink-0" />
-                <span>contact@celestialguide.com</span>
+                <span>hpashok001</span>
               </li>
             </ul>
           </div>
@@ -107,7 +107,7 @@ const Footer: React.FC = () => {
         {/* Copyright */}
         <div className="text-center pt-8 border-t border-gray-700">
           <p className="text-cream-light">
-            &copy; {currentYear} Celestial Guide. All rights reserved.
+            &copy; {currentYear} VaastuRich. All rights reserved.
           </p>
         </div>
       </div>

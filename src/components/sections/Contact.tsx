@@ -132,7 +132,7 @@ const Contact: React.FC = () => {
                     <Mail className="mt-1 mr-3 flex-shrink-0" size={20} />
                     <div>
                       <p className="font-medium">Email</p>
-                      <p className="text-cream-light">contact@celestialguide.com</p>
+                      <p className="text-cream-light">contact@VaastuRich.com</p>
                     </div>
                   </li>
                   
